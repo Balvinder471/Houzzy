@@ -20,7 +20,7 @@ exports.Stripe = {
     charge: (amount, source, stripeAccount) => __awaiter(void 0, void 0, void 0, function* () {
         const result = yield client.charges.create({
             amount,
-            currency: 'gbp',
+            currency: 'inr',
             source,
             /* eslint-disable-next-line @typescript-eslint/camelcase */
             application_fee_amount: Math.round(amount * 0.05),
