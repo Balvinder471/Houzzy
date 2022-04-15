@@ -1,32 +1,32 @@
 {
   "files": {
     "main.css": "/static/css/main.29a42f9d.chunk.css",
-    "main.js": "/static/js/main.b53f9449.chunk.js",
-    "main.js.map": "/static/js/main.b53f9449.chunk.js.map",
+    "main.js": "/static/js/main.bd24710f.chunk.js",
+    "main.js.map": "/static/js/main.bd24710f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.54ac08d4.js",
     "runtime-main.js.map": "/static/js/runtime-main.54ac08d4.js.map",
     "static/css/2.a3b9b7a2.chunk.css": "/static/css/2.a3b9b7a2.chunk.css",
     "static/js/2.2cf12f8b.chunk.js": "/static/js/2.2cf12f8b.chunk.js",
     "static/js/2.2cf12f8b.chunk.js.map": "/static/js/2.2cf12f8b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ab76aef45fcee1040dedc0a6afefbd08.js": "/precache-manifest.ab76aef45fcee1040dedc0a6afefbd08.js",
+    "precache-manifest.bae5c66caa724b5ae1ce1cee98db26ad.js": "/precache-manifest.bae5c66caa724b5ae1ce1cee98db26ad.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.a3b9b7a2.chunk.css.map": "/static/css/2.a3b9b7a2.chunk.css.map",
     "static/css/main.29a42f9d.chunk.css.map": "/static/css/main.29a42f9d.chunk.css.map",
     "static/js/2.2cf12f8b.chunk.js.LICENSE.txt": "/static/js/2.2cf12f8b.chunk.js.LICENSE.txt",
+    "static/media/agra.jpeg": "/static/media/agra.ff4e8598.jpeg",
     "static/media/cancun.jpg": "/static/media/cancun.cd98e2c3.jpg",
-    "static/media/dubai.jpg": "/static/media/dubai.df994899.jpg",
-    "static/media/london.jpg": "/static/media/london.841651c3.jpg",
-    "static/media/los-angeles.jpg": "/static/media/los-angeles.73d8ec96.jpg",
+    "static/media/delhi.jpg": "/static/media/delhi.7806f5b5.jpg",
     "static/media/home.scss": "/static/media/map-background.c21df147.png",
-    "static/media/san-francisco.jpg": "/static/media/san-francisco.23aadf81.jpg",
-    "static/media/toronto.jpg": "/static/media/toronto.3c573d34.jpg"
+    "static/media/punjab.jpeg": "/static/media/punjab.394a41e2.jpeg",
+    "static/media/rajasthan.jpg": "/static/media/rajasthan.71a76911.jpg",
+    "static/media/san-francisco.jpg": "/static/media/san-francisco.23aadf81.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.54ac08d4.js",
     "static/css/2.a3b9b7a2.chunk.css",
     "static/js/2.2cf12f8b.chunk.js",
     "static/css/main.29a42f9d.chunk.css",
-    "static/js/main.b53f9449.chunk.js"
+    "static/js/main.bd24710f.chunk.js"
   ]
 }
