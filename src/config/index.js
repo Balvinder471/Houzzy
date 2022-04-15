@@ -3,7 +3,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const path_1 = require("path");
 exports.Configuration = {
     API_PREFIX: '/api',
-    CLIENT_BUILD_DIR: path_1.resolve(`${__dirname}/client`),
+    CLIENT_BUILD_DIR: path_1.resolve(`${__dirname}/../client`),
     CLOUDINARY_CLOUD_NAME: process.env.CLOUDINARY_CLOUD_NAME || '',
     CLOUDINARY_API_KEY: process.env.CLOUDINARY_API_KEY || '',
     CLOUDINARY_API_SECRET: process.env.CLOUDINARY_API_SECRET || '',
