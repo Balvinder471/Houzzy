@@ -16,6 +16,6 @@ const { ENVIRONMENT, PORT } = config_1.Configuration;
 (() => __awaiter(void 0, void 0, void 0, function* () {
     const app = yield app_1.init();
     app.listen(PORT, () => {
-        console.info(`[server]: Running at http://localhost:${PORT} in mode "${ENVIRONMENT}"`);
+        console.info(`[server]: Running server at http://localhost:${PORT} in mode "${ENVIRONMENT}"`);
     });
 }))();
